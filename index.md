@@ -13,7 +13,7 @@ title: Blake Lochmandy
 ---
 
 ## Spotlight Projects
-Flagship work that shows depth. Limit to 3–4 for quick scanning.
+Coming Soon.
 
 <!-- TEMPLATE: Gameplay‑heavy project (video embed)
 ### Project Title  
@@ -50,7 +50,7 @@ I bake, sail, and explore systems that sit at the edge of structure and creativi
 ---
 
 ## Technical Side Projects
-Smaller experiments, utilities, or proofs‑of‑concept.
+Coming Soon.
 
 <!-- TEMPLATE: Discord bot
 ### Bot Name  
@@ -72,7 +72,7 @@ Short description.
 ---
 
 ## Creative & Personal Projects
-Fun builds, art‑adjacent pieces, or process experiments.
+Coming Soon.
 
 <!-- TEMPLATE: Interactive web project
 ### Project Title  
