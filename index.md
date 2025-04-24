@@ -1,48 +1,93 @@
 ---
-layout: default            # works with any built-in GitHub theme
-title: Blake Lochmandy
+layout: default            # Works with any built‑in GitHub theme
+title: Blake Lochmandy
 ---
 
-# Blake Lochmandy  
-**USC CS Games (M.S.) · Full-stack & gameplay generalist**
+# Blake Lochmandy  
+**USC CS Games (M.S.) · Game‑dev & systems generalist**
 
-> I turn ideas into playable prototypes, data pipelines, and the odd AI experiment.
+> I build systems, set direction, and keep projects on course when the wind shifts.
 
-[Email me](mailto:blake@YOURMAIL.com)  |  [LinkedIn](https://linkedin.com/in/YOURHANDLE)
+[Email](mailto:blakeloch@gmail.com) | [LinkedIn](https://linkedin.com/in/blakeloch)
 
 ---
 
 ## Spotlight Projects
+Flagship work that shows depth. Limit to 3–4 for quick scanning.
 
-<!-- ==== copy one of the templates from Section 2 for each project ==== -->
+<!-- TEMPLATE: Gameplay‑heavy project (video embed)
+### Project Title  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUTUBE_ID" title="Project Title demo" frameborder="0" allowfullscreen style="max-width:100%"></iframe>
 
-<!-- Example video embed -->
-### Headstone Detection & Transcription
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/VIDEO_ID"
-  title="Headstone Detection demo"
-  frameborder="0" allowfullscreen style="max-width:100%"></iframe>
+**Role:** Solo dev / Gameplay programmer  
+**Stack:** Unity · C# · OPTIONAL_EXTRA_TECH  
+[Source ↗](GITHUB_URL) | [Play ↗](DEMO_URL)
+-->
 
-**Stack:** Python · Mask R-CNN · Tesseract · OpenCV  
-[Source ↗](https://github.com/USER/REPO) &nbsp;|&nbsp; [Paper ↗](https://YOUR-LINK)
+<!-- TEMPLATE: Technical paper / tool (PDF or write‑up)
+### Tool or Study Name  
+![thumbnail](IMG_URL)  
+Brief one‑line purpose.
+
+**Stack:** Python · TensorFlow · OpenCV  
+[Paper ↗](PDF_URL) | [Repo ↗](GITHUB_URL)
+-->
 
 ---
 
 ## Skills Snapshot
-`C# & Unity · Python · R · Java · C++ · Jira · Trello · Google Sheets`
+`Unity · C# · Python · Java · R · C++ · Notion · Trello · Google Sheets`
 
 ---
 
 ## About
-Jack-of-all-trades programmer who enjoys jumping between gameplay, computer vision, and data-wrangling—whatever solves the problem *and* stays fun.
+I work in game development and creative tech, mostly using Unity and C#. I’ve built gameplay systems, UI, and prototypes across a range of formats. I’ve also used Python for AI simulations and built Discord bots and web projects.
+
+I usually handle planning alongside programming—writing timelines, breaking down work, and keeping projects aligned with tools like Notion and Trello.
+
+Beyond dev, I bake, sail, and explore systems that mix process and creativity.
 
 ---
 
-## More Projects
-<!-- Add quick-links or leave blank for now -->
-* **[TODO]** Project Two (screenshot)  
-* **[TODO]** Project Three (thumbnail link)
+## Technical Side Projects
+Smaller experiments, utilities, or proofs‑of‑concept.
+
+<!-- TEMPLATE: Discord bot
+### Bot Name  
+![bot gif](IMG_URL)
+
+**Purpose:** One‑sentence what it solves.  
+**Tech:** Python · Discord API  
+[Repo ↗](GITHUB_URL)
+-->
+
+<!-- TEMPLATE: CLI Tool / Script
+### Tool Name  
+Short description.
+
+**Tech:** Python · Bash  
+[Repo ↗](GITHUB_URL)
+-->
 
 ---
 
-<small>Site built with ♥ on GitHub Pages. More goodies coming soon.</small>
+## Creative & Personal Projects
+Fun builds, art‑adjacent pieces, or process experiments.
+
+<!-- TEMPLATE: Interactive web project
+### Project Title  
+[![screenshot](IMG_URL)](DEMO_URL)
+
+One‑line description.  
+[Live ↗](DEMO_URL) | [Source ↗](GITHUB_URL)
+-->
+
+<!-- TEMPLATE: Analog / Misc
+### Project Name  
+Short description e.g., "Recipe notebook that tracks hydration & rise times."  
+Assets / links if any.
+-->
+
+---
+
+<small>Site built with care on GitHub Pages.</small>
