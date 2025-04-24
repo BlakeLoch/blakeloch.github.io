@@ -42,7 +42,9 @@ Brief one‑line purpose.
 
 ## About
 I work in game development and creative tech, mostly using Unity and C#. I’ve built gameplay systems, UI, and small prototypes across a range of formats. I’ve also used Python for AI training, simulations, and algorithmic experiments, and built both Discord bots and web-based projects over the years.
+
 I usually handle the organizational side of things alongside programming—building timelines, breaking down work, and helping projects stay aligned. I’ve worked in Notion, Trello, and spreadsheets to manage scope and track progress.
+
 I bake, sail, and explore systems that sit at the edge of structure and creativity. I like learning how things work and working on projects that make space for curiosity.
 
 ---
