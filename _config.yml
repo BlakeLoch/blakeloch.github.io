@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+
+title: Blake Lochmandy
+description: USC CS Games (M.S.) · Game-dev and systems generalist with a focus on creative tech, prototyping, and structure.
+author: Blake Lochmandy
+
+markdown: kramdown
+permalink: pretty
