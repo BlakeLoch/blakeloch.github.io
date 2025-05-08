@@ -4,7 +4,7 @@ title: Blake Lochmandy
 ---
 
 # Blake Lochmandy  
-**USC CS Games (M.S.) · Game‑dev & systems generalist**
+**USC CS Games (M.S.) · Game Developer & Full Stack Engineer**
 
 > I build systems, set direction, and keep projects on course when the wind shifts.
 
