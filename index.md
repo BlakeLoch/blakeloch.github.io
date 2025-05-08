@@ -69,7 +69,7 @@ I bake, sail, and explore systems that sit at the edge of structure and creativi
 ### Quiz Site Prototype  
 Basic web quiz engine built in 3 days for fun. Supports multiple question types and simple scoring logic.  
 **Stack:** HTML · CSS · JavaScript  
-[Repo ↗](GITHUB_LINK_TBD)
+*(No public repo available)*
 
 ### Genshin Guess Who  
 Browser-based guessing game to play with friends using Genshin Impact characters (Updated to 4.4). Built solo in 1–2 days.  
