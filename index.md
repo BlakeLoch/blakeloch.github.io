@@ -141,5 +141,3 @@ Voltron-inspired band active from 2018 to 2020. I co-wrote songs, designed visua
 [Spotify ↗](https://open.spotify.com/artist/28Nf5ibz9me2jeGpyz7QXf) | [YouTube ↗](https://www.youtube.com/c/LotorandtheGenerals) | [Instagram ↗](https://www.instagram.com/lotorandthegenerals/)
 
 ---
-
-<small>Site built with care on GitHub Pages.</small>
