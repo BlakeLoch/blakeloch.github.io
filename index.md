@@ -17,10 +17,10 @@ title: Blake Lochmandy
 ### Cat Burglars  
 [![Cat Burglars Trailer](https://img.youtube.com/vi/aVZ_uZB_F7M/0.jpg)](https://www.youtube.com/watch?v=aVZ_uZB_F7M)
 
-**Role:** Co-dev (production, level design, gameplay, audio)  
+**Role:** Production, Level Design, Gameplay Programming  
 **Stack:** Unity · C#  
 
-[Trailer ↗](https://www.youtube.com/watch?v=aVZ_uZB_F7M) | [Download ↗](DOWNLOAD_LINK_CAT_BURGLARS)
+[Trailer ↗](https://www.youtube.com/watch?v=aVZ_uZB_F7M) | [Download ↗](https://drive.google.com/drive/folders/1zzwk4c3SyA_HhQThrBbCu2WjW8MOPam6?usp=sharing)
 
 A 2-player asymmetric co-op puzzle game where one player sneaks through the museum as *Field Cat*, while the other manipulates traps and security systems as *Systems Cat*. Developed in Spring 2025, *Cat Burglars* emphasizes teamwork, creative problem-solving, and lighthearted heist mechanics.
 
@@ -43,7 +43,7 @@ A historical reconstruction project built for the Meta Quest 2, recreating the S
 **Role:** Producer, level designer, audio lead  
 **Stack:** Unity · C#  
 
-[Download (Mac) ↗](MAC_BUILD_LINK_LOST_MAGIC) | [Professor Playthrough ↗](https://youtu.be/etx_1UUHOF8?t=3914)
+[Download (Mac) ↗](https://drive.google.com/drive/folders/1Bd-3tYowt7SdiMyC4zy4izSNH24Zvz24?usp=sharing) | [Professor Playthrough ↗](https://youtu.be/etx_1UUHOF8?t=3914)
 
 A 2D platformer where you play as a knight stripped of your power, venturing through elemental lands to reclaim what was lost. The game includes a tutorial and five main stages: castle, forest, lightning, ice, fire, and a final boss encounter. Built by a team of four in Spring 2023, it blends tight platforming with original level design and dynamic audio.  
 *Featured in a full livestream playthrough by our professor, Dr. Johnathan Mell, starting at 1:05:14.*
