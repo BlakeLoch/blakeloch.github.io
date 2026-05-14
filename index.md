@@ -126,7 +126,7 @@ _Spring 2023_
 2D platformer where you play as a knight stripped of your power, moving through elemental lands to reclaim what was lost. Tutorial plus five main stages (castle, forest, lightning, ice, fire) and a final boss. Built by a team of four as a class project.
 **Role:** Producer, level designer, audio lead  
 **Stack:** Unity · C#
-[Download (Mac) ↗](https://drive.google.com/drive/folders/1Bd-3tYowt7SdiMyC4zy4izSNH24Zvz24?usp=sharing) | [Professor Playthrough ↗](https://youtu.be/etx_1UUHOF8?t=3914)
+[Download (Mac) ↗](https://drive.google.com/drive/folders/1Bd-3tYowt7SdiMyC4zy4izSNH24Zvz24?usp=sharing) | [Professor Playthrough ↗](https://youtu.be/etx_1UUHOF8?t=3914)  
 _Featured in a full livestream playthrough by our professor, Dr. Johnathan Mell, starting at 1:05:14._
 
 ### Bar-ista  
