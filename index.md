@@ -21,7 +21,7 @@ _2025–2026_
 
 [![Glorgo's Microplastics Mine Trailer](https://img.youtube.com/vi/KWjBAFQ-PVQ/0.jpg)](https://www.youtube.com/watch?v=KWjBAFQ-PVQ)
 
-**Role:** Lead Engineer
+**Role:** Lead Engineer  
 **Stack:** Unity · C# · FMOD · Yarn
 
 [Trailer ↗](https://www.youtube.com/watch?v=KWjBAFQ-PVQ) | [Website ↗](https://glorgogame.com/) | [Steam ↗](https://store.steampowered.com/app/4246790/Glorgos_Microplastics_Mine/)
