@@ -19,7 +19,7 @@ title: Blake Lochmandy
 
 _2025–2026_
 
-[Glorgo's Microplastics Mine Trailer](https://www.youtube.com/watch?v=KWjBAFQ-PVQ)
+[![Glorgo's Microplastics Mine Trailer](https://img.youtube.com/vi/KWjBAFQ-PVQ/0.jpg)](https://www.youtube.com/watch?v=KWjBAFQ-PVQ)
 
 **Role:** Lead Engineer
 **Stack:** Unity · C# · FMOD · Yarn
@@ -34,7 +34,7 @@ An absurd, eccentric, incremental resource manager that puts you in the shoes of
 
 _Spring 2025_
 
-[Cat Burglars Trailer](https://www.youtube.com/watch?v=aVZ_uZB_F7M)
+[![Cat Burglars Trailer](https://img.youtube.com/vi/aVZ_uZB_F7M/0.jpg)](https://www.youtube.com/watch?v=aVZ_uZB_F7M)
 
 **Role:** Production, Level Design, Gameplay Programming  
 **Stack:** Unity · C#
@@ -49,7 +49,7 @@ A 2-player asymmetric co-op puzzle game where one player sneaks through the muse
 
 _2023–2024_
 
-[CEM VR Video](https://www.youtube.com/watch?v=Z5CeIh9vH9A)
+[![CEM VR Video](https://img.youtube.com/vi/Z5CeIh9vH9A/0.jpg)](https://www.youtube.com/watch?v=Z5CeIh9vH9A)
 
 **Role:** Co-lead (team coordination, headstone detection model)  
 **Stack:** Unity · C# · Python · Detectron2 · Meta Quest 2
