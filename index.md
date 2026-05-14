@@ -79,55 +79,64 @@ I bake, sail, and explore systems that sit at the edge of structure and creativi
 ## Other Technical Projects
 
 ### VALORANT Voice Chat Detoxification Study
+
 _Spring 2026_
 Research project exploring whether domain-grounded RAG could rewrite toxic VALORANT voice chat while preserving tactical information. I worked on the human study design and results analysis, evaluating compliance, perceived toxicity, urgency, trust, and appropriateness across toxic and detoxified requests.  
 **Role:** Survey design, results analysis  
 **Stack:** RAG · LLM evaluation · Survey analysis  
-*(Experimental – presentations available)*
+_(Experimental – presentations available)_
 
 ### GA-Based Noise Image Reconstruction
+
 _Fall 2024_
 Attempted to evolve procedural noise images toward a target noise image using a genetic algorithm. The system mostly converged on average color instead of matching patterns, making it a useful experiment in the limits of the approach.  
 **Stack:** C++  
-*(Experimental – presentations available)*
+_(Experimental – presentations available)_
 
 ### Quiz Site Prototype
+
 _Sep 2024_
 Basic web quiz engine built in 3 days for fun. Supports multiple question types and simple scoring logic.  
 **Stack:** HTML · CSS · JavaScript  
-*(No public repo available)*
+_(No public repo available)_
 
 ### Genshin Wish Calculator
+
 _Summer 2024_  
 Python script that calculates wish totals, runs single and mass pull simulations, and estimates success probability.  
 **Stack:** Python  
-*(Outdated – not updated for latest mechanics)*
+_(Outdated – not updated for latest mechanics)_
 
 ### Currency Converter
+
 _June 2024_  
 Quick Python tool to convert 49 global and historical currencies to USD using exchange rate APIs and archival data.  
 **Stack:** Python  
-*(Personal utility – not shared publicly)*
+_(Personal utility – not shared publicly)_
 
 ### Genetic Algorithm Crossover Analysis
+
 _Spring 2024_
 Tested whether close-relative crossover caused performance loss in a genetic algorithm. Our results showed little difference between regular and restricted crossover.  
 **Stack:** Python  
-*(Experimental – presentations available)*
+_(Experimental – presentations available)_
 
 ### Genshin Guess Who
+
 _Jan 2024_
 Browser-based guessing game to play with friends using Genshin Impact characters (Updated to 4.4). Built solo in 1–2 days; [source on GitHub](https://github.com/BlakeTGS/GenshinGuessWho)
 **Stack:** HTML · CSS · JavaScript  
 [Play ↗](https://blaketgs.github.io/GenshinGuessWho/)
 
 ### Aquarium
+
 _Winter 2023_  
 Web app prototype for displaying fish from a TikTok project, using a public Google Sheet to store hover metadata.  
 **Stack:** HTML · CSS · JavaScript  
-*(Hosting currently offline)*
+_(Hosting currently offline)_
 
 ### The Lost Magic
+
 _Spring 2023_
 2D platformer where you play as a knight stripped of your power, moving through elemental lands to reclaim what was lost. Tutorial plus five main stages (castle, forest, lightning, ice, fire) and a final boss. Built by a team of four as a class project.
 **Role:** Producer, level designer, audio lead  
@@ -136,30 +145,35 @@ _Spring 2023_
 _Featured in a full livestream playthrough by our professor, Dr. Johnathan Mell, starting at 1:05:14._
 
 ### Bar-ista
+
 _Spring 2023_
 Mobile and web app to track ingredient inventory and suggest drinks based on available items. Managed a team of six from start to delivery.  
 **Stack:** MongoDB · Express · React · React Native · Node.js  
-*(Site no longer live)*
+_(Site no longer live)_
 
 ### PL/0 Compiler
+
 _Fall 2022_
 Built a compiler for the PL/0 teaching language based on spec, including a virtual machine, scanner, parser, and compiler. Class project.  
 **Stack:** C  
-*(No public repo available)*
+_(No public repo available)_
 
 ### Fire Emblem Heroes Build Generator
+
 _Dec 2021_
 Generates random, viable builds for FEH characters—stats, skills, and restrictions included. Built solo in a week.  
 **Stack:** Java · JavaFX  
-*(Prototype – not publicly hosted)*
+_(Prototype – not publicly hosted)_
 
 ### Dungeons & Dragons Character Generator
+
 _Fall 2019_  
 Solo-built 5e generator that outputs complete level 1 characters—class, subclass, race, stats, background, inventory, and backstory. Designed for Discord integration.  
 **Stack:** JavaScript · Node.js  
-*(Bot no longer live)*
+_(Bot no longer live)_
 
 ### InternStellar
+
 _Oct 2018_
 Space-themed minigames built in 3 days using wildly improvised tools. I did art, audio, and production. Won 3rd Place at IndieGalactic Game Jam 2017. Followed by a sequel at the 2018 jam.  
 **Stack:** Python · Pygame · Apple TTS · Numbers  
@@ -170,22 +184,26 @@ Space-themed minigames built in 3 days using wildly improvised tools. I did art,
 ## Creative & Personal Projects
 
 ### Swan Boat
+
 _2023–present_
 Indie band under Birdbath Entertainment. I write, sing, play bass, and create visuals across our releases.  
 [Spotify ↗](https://open.spotify.com/artist/6eI0kkMCGfJHFC3C053J4K)
 
 ### Birdbath Entertainment
+
 _2024–2025_
 Independent entertainment label producing music, videos, and live shows. I served as CTO and helped coordinate technical delivery across projects.  
 [YouTube ↗](https://www.youtube.com/@birdbathentertainment) | [Instagram ↗](https://www.instagram.com/birdbathentertainment) | [LinkedIn ↗](https://www.linkedin.com/company/birdbath-entertainment/)
 
 ### 47 Songs About Margellica
+
 _Jan 2024_
 A love story told across 47 songs. Written and recorded in one week. Released under the band 'Swab Note' (aka Swan Boat).
 
 [YouTube ↗](https://www.youtube.com/playlist?list=PL7JMrhXwovp9HDNMEtQVLw3AVXyaA3GMT)
 
 ### Lotor and the Generals
+
 _2018–2020_
 Emo/rock band inspired by a suburban AU of Voltron: Legendary Defender (2016). I co-wrote songs, designed visuals, and built the original website. Released music on major platforms as part of a four-person band.  
 [Spotify ↗](https://open.spotify.com/artist/28Nf5ibz9me2jeGpyz7QXf) | [YouTube ↗](https://www.youtube.com/c/LotorandtheGenerals) | [Instagram ↗](https://www.instagram.com/lotorandthegenerals/)
